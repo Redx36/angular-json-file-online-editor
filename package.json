@@ -8,7 +8,7 @@
     "core-js": "2.5.5",
     "zone.js": "0.8.26",
     "jsoneditor": "5.19.2",
-    "@angular/core": "6.0.0",
+    "@angular/core": "10.2.5",
     "@angular/forms": "6.0.0",
     "ang-jsoneditor": "1.8.1",
     "@angular/common": "6.0.0",
